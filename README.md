@@ -1,1 +1,1 @@
-# GoMyCodeAI courses
+# GoMyCodeAI checkpoints
